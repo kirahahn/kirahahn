@@ -1,4 +1,6 @@
-Hi I'm Kira :3
+Hey I'm Kira, currently studying physics at University Hamburg. 
+
+
 
 <!---
 Astronymos/Astronymos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
