@@ -1,4 +1,4 @@
-### Hey I'm Kira, currently studying physics at University of Hamburg. 
+### Hey, I'm Kira! I currently study physics at University of Hamburg.
 
 
 
